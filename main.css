@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header h1 {
+	padding-top: 20;
+	font-weight: 700;
+	margin: 0;
+}
+
+.jumbotron {
+	padding-top: 20px;
+	background-color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #347C17;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #41A317;
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+ position:fixed;
+ bottom:0;
+ left:0;
+}
